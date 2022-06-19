@@ -1,6 +1,6 @@
 # hilo-game-2022
 
-#This is a simple version of a high low game that was built to follow these specifications:
+This is a simple version of a high low game that was built to follow these specifications:
 The player starts the game with 300 points.
 Individual cards are represented as a number from 1 to 13.
 The current card is displayed.
